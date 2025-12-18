@@ -9,4 +9,4 @@
 - Added 10 Google Classroom Questions in [gcr-codebase](./gcr-codebase/programming-elements)
 
 ### 18-12-2025
-- Added 
+- Completed Level 1 Practice Problems in [gcr-codebase](./gcr-codebase/programming-elements)
