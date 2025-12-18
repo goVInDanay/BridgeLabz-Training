@@ -10,4 +10,3 @@
 
 ### 18-12-2025
 - Completed Level 1 Practice Problems in [gcr-codebase](./gcr-codebase/programming-elements)
-- Completed Level 2 Practice Problems in [gcr-codebase](./gcr-codebase/programming-elements)
