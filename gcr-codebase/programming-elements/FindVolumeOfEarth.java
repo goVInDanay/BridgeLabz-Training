@@ -6,7 +6,7 @@ public class FindVolumeOfEarth {
 		int radius = 6378;
 		double volume = (4 / 3.0) * Math.PI * radius * radius * radius;
 		double volumeMiles = volume / 0.6213712;
-		System.out.println("Volume of Earth in kilometers is " + volume + " km and in miles is " + volumeMiles + " miles");
+		System.out.println("Volume of Earth in kilometers is " + volume + " km^3 and in miles is " + volumeMiles + " miles^3");
 	}
 
 }
