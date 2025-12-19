@@ -1,4 +1,3 @@
-import java.util.*;
 public class AgeAndHeight {
 
 	public static void main(String[] args) {
