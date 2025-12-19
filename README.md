@@ -12,3 +12,6 @@
 - Completed Level 1 Practice Problems in [gcr-codebase](./gcr-codebase/programming-elements)
 - Completed Level 2 Practice Problems in [gcr-codebase](./gcr-codebase/programming-elements)
 - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
+
+### 19-12-2025
+- Completed 5 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
