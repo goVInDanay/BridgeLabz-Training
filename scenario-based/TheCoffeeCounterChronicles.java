@@ -85,6 +85,10 @@ public class TheCoffeeCounterChronicles {
 				input2 = input2.toLowerCase();
 				if(input2.equals("exit")) {
 					System.out.println("Total Amount " + totalAmount);
+					int gst = 5;
+					System.out.println("GST Percent " + gst);
+					double finalAmount = (totalAmount * gst) / 100;
+					System.out.println("Final Amount " + finalAmount);
 					break;
 				}
 			}
