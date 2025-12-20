@@ -16,7 +16,6 @@ BridgeLabz-Training/
 ```
 
 ## 1. Week 1 : Getting started With Java
-- ### **Week 1 Progress**
  - ### 16-12-2025    
     - Created branches locally and remotely
     - Added folder structure
