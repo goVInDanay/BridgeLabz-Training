@@ -37,3 +37,4 @@ BridgeLabz-Training/
 
  - #### 20-12-2025
     - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
+    - Completed 2 Scenario-based questions and added in [scenario-based](./scenario-based)
