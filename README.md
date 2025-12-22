@@ -40,3 +40,12 @@ BridgeLabz-Training/
     - Completed 2 Scenario-based questions and added in [scenario-based](./scenario-based)
     - Completed Level 1 Array Practice questions and added in [gcr-codebase/arrays](./gcr-codebase/arrays)
     - Completed Level 2 Array Practice questions and added in [gcr-codebase/arrays](./gcr-codebase/arrays)
+
+## 1. Week 2 : Advancing With Java
+   - #### 22-12-2025
+      - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
+      - Completed Level 1 String Practice questions and added in [gcr-codebase/string-practice](./gcr-codebase/string-practice)
+      - Completed Level 2 String Practice questions and added in [gcr-codebase/string-practice](./gcr-codebase/string-practice)
+      - Completed Level 3 String Practice questions and added in [gcr-codebase/string-practice](./gcr-codebase/string-practice)
+
+    
