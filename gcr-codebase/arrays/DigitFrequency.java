@@ -22,7 +22,7 @@ public class DigitFrequency {
 			freq[digit[i]]++;
 		}
 		for(int i = 0; i < 10; i++) {
-			System.out.println("Frequency of digit " + i + "is " + freq[i]);
+			System.out.println("Frequency of digit " + i + " is " + freq[i]);
 		}
 	}
 
