@@ -4,7 +4,7 @@
 .classpath
 .project
 .settings/
-<<<<<<< HEAD
-=======
 .vscode
->>>>>>> 3db68efb5c0659cef7089125c239f665993b767b
+.settings
+.classpath
+.project
