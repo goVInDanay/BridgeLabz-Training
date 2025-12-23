@@ -48,4 +48,8 @@ BridgeLabz-Training/
       - Completed Level 2 String Practice questions and added in [gcr-codebase/string-practice](./gcr-codebase/string-practice)
       - Completed Level 3 String Practice questions and added in [gcr-codebase/string-practice](./gcr-codebase/string-practice)
 
+   - #### 23-12-2025
+      - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
+      - Revised Github Code structure
+
     
