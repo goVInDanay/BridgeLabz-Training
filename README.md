@@ -56,5 +56,6 @@ BridgeLabz-Training/
    - #### 24-12-2025
       - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
       - Completed Level 1 Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
+      - Completed Level 2 Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
 
     
