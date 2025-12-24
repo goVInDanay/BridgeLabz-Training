@@ -53,4 +53,10 @@ BridgeLabz-Training/
       - Revised Github Code structure
       - Completed 2 Scenario-based questions and added in [scenario-based](./scenario-based)
 
+   - #### 24-12-2025
+      - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
+      - Completed Level 1 Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
+      - Completed Level 2 Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
+      - Completed Level 3g Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
+
     
