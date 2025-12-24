@@ -8,7 +8,7 @@ public class YoungAndTall {
 			age[i] = sc.nextInt();
 		}
 		for(int i = 0; i < height.length; i++) {
-			height[i] = sc.nextInt();
+			height[i] = sc.nextDouble();
 		}
 		int youngest = 0;
 		int tallest = 0;
