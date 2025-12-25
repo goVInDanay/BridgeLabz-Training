@@ -58,5 +58,7 @@ BridgeLabz-Training/
       - Completed Level 1 Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
       - Completed Level 2 Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
       - Completed Level 3g Methods Practice questions and added in [gcr-codebase/methods](./gcr-codebase/methods)
-
-    
+   
+   - #### 25-12-2025
+      - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
+      - Completed Extra String Questions and added in [gcr-codebase/string-practice](./core-java-practice/gcr-codebase/string-practice)
