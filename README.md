@@ -62,3 +62,7 @@ BridgeLabz-Training/
    - #### 25-12-2025
       - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
       - Completed Extra String Questions and added in [gcr-codebase/string-practice](./core-java-practice/gcr-codebase/string-practice)
+
+   - #### 26-12-2025
+      - Completed 2 Leetcode questions and added in [leet-code-codebase](./leet-code-codebase)
+      - Completed Extra Methods Questions and added in [gcr-codebase/methods](./core-java-practice/gcr-codebase/methods)
