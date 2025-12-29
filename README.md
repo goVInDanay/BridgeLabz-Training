@@ -19,8 +19,6 @@ BridgeLabz-Training/
 |   |   └── extras/
 |   |
 │   ├── leet-code-codebase/
-│   │
-│   └── scenario-based/
 │
 ├── oops-practice/                 (Branch & Folder Name)
 │   │
@@ -101,5 +99,5 @@ BridgeLabz-Training/
 
    - #### 29-12-2025
       - Completed 2 Leetcode questions and added in [leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
-      - Completed 2 Scenario-based questions and added in [scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
-      - Completed 1 Scenario-based question and added in [scenario-based branch](https://github.com/goVInDanay/BridgeLabz-Training/tree/scenario-based)
+      - Completed 2 Scenario-based questions and added in [gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+      - Completed 2 Scenario-based question and added in [gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
