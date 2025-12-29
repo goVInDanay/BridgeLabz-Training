@@ -13,7 +13,11 @@ BridgeLabz-Training/
 │   ├── gcr-codebase/
 │   │   ├── programming-elements/
 │   │   └── control-flow/
-│   │
+|   |   └── arrays/
+│   │   └── string-practice/
+|   |   └── methods/
+|   |   └── extras/
+|   |
 │   ├── leet-code-codebase/
 │   │
 │   └── scenario-based/
@@ -21,9 +25,10 @@ BridgeLabz-Training/
 ├── oops-practice/                 (Branch & Folder Name)
 │   │
 │   ├── gcr-codebase/
+|   |   ├── encapsulation/
 │   │   ├── inheritance/
-│   │   ├── encapsulation/
-│   │   └── polymorphism/
+│   │   ├── polymorphism/
+│   │   └── abstraction/
 │   │
 │   ├── scenario-based/
 │   │
