@@ -1,6 +1,6 @@
 package core_java_practice.scenario_based;
 
-class UC1 {
+class EMC_UC1 {
 
 	// UC-1 Check if Employee is Present Or Absent using Random()
 	public int getAttendance() {
@@ -8,77 +8,103 @@ class UC1 {
 	}
 }
 
-class UC2 {
+class EWC_UC2 {
+	
+	// UC-1 Check if Employee is Present Or Absent using Random()
+	public int getAttendance() {
+		return (int) (Math.random() * 3);
+	}
+	
 	// UC-2 Full-Time Employee Daily Wage Calculation
-	public int getDailyWage(int totalWorkingHours) {
+	public int getDailyWage() {
 		final int FULL_TIME_HOURS = 8;
-		final int MAX_WORKING_HOURS = 100;
 		final int WAGE_PER_HOUR = 20;
-		int dailyHours = FULL_TIME_HOURS;
-		if (totalWorkingHours + dailyHours > MAX_WORKING_HOURS) {
-			dailyHours = MAX_WORKING_HOURS - totalWorkingHours;
+		
+		int attendance = getAttendance();
+		int dailyHours = 0;
+		
+		if(attendance > 0) {
+			dailyHours = FULL_TIME_HOURS;
 		}
+
 		int dailyWage = dailyHours * WAGE_PER_HOUR;
 		return dailyWage;
 	}
 }
 
-class UC3 {
+class EWC_UC3 {
+	
+	// UC-1 Check if Employee is Present Or Absent using Random()
+	public int getAttendance() {
+		return (int) (Math.random() * 3);
+	}
+	
 	// UC-3 Part-Time Employee Wage Calculation
-	public int getDailyWage(int totalWorkingHours) {
-		final int PART_TIME_HOURS = 8;
-		final int MAX_WORKING_HOURS = 100;
+	public int getDailyWage() {
+		final int PART_TIME_HOURS = 4;
 		final int WAGE_PER_HOUR = 20;
-		int dailyHours = PART_TIME_HOURS;
-		if (totalWorkingHours + dailyHours > MAX_WORKING_HOURS) {
-			dailyHours = MAX_WORKING_HOURS - totalWorkingHours;
+		
+		int attendance = getAttendance();
+		int dailyHours = 0;
+		
+		if(attendance > 0) {
+			dailyHours = PART_TIME_HOURS;
 		}
+
 		int dailyWage = dailyHours * WAGE_PER_HOUR;
 		return dailyWage;
 	}
 }
 
-class UC4 {
+class EWC_UC4 {
 	// UC-1 Check if Employee is Present Or Absent using Random()
 	public int getAttendance() {
 		return (int) (Math.random() * 3);
 	}
 
 	// UC-2 Full-Time Employee Daily Wage Calculation
-	public int getDailyWage(int totalWorkingHours) {
+	public int getDailyWage() {
 		final int FULL_TIME_HOURS = 8;
-		final int MAX_WORKING_HOURS = 100;
 		final int WAGE_PER_HOUR = 20;
-		int dailyHours = FULL_TIME_HOURS;
-		if (totalWorkingHours + dailyHours > MAX_WORKING_HOURS) {
-			dailyHours = MAX_WORKING_HOURS - totalWorkingHours;
+		
+		int attendance = getAttendance();
+		int dailyHours = 0;
+		
+		if(attendance > 0) {
+			dailyHours = FULL_TIME_HOURS;
 		}
+
 		int dailyWage = dailyHours * WAGE_PER_HOUR;
 		return dailyWage;
 	}
 
 	// UC-3 Part-Time Employee Wage Calculation
-	public int getPartTimeDailyWage(int totalWorkingHours) {
-		final int PART_TIME_HOURS = 8;
-		final int MAX_WORKING_HOURS = 100;
+	public int getPartTimeDailyWage() {
+		final int PART_TIME_HOURS = 4;
 		final int WAGE_PER_HOUR = 20;
-		int dailyHours = PART_TIME_HOURS;
-		if (totalWorkingHours + dailyHours > MAX_WORKING_HOURS) {
-			dailyHours = MAX_WORKING_HOURS - totalWorkingHours;
+		
+		int attendance = getAttendance();
+		int dailyHours = 0;
+		
+		if(attendance > 0) {
+			dailyHours = PART_TIME_HOURS;
 		}
+
 		int dailyWage = dailyHours * WAGE_PER_HOUR;
 		return dailyWage;
 	}
 
 	// UC-4 Solving Using Switch Case
-	public int getDailyHours(int attendance, int totalWorkingHours) {
+	public int getDailyHours(int attendance) {
+		final int FULL_TIME_HOURS = 8;
+		final int PART_TIME_HOURS = 4;
 		int dailyHours = 0;
 		switch (attendance) {
 			case 1 -> {
-				dailyHours = getDailyWage(totalWorkingHours);
+				dailyHours = FULL_TIME_HOURS;
 			}
 			case 2 -> {
-				dailyHours = getPartTimeDailyWage(totalWorkingHours);
+				dailyHours = PART_TIME_HOURS;
 			}
 			default -> {
 				dailyHours = 0;
@@ -111,7 +137,7 @@ class UC5 {
 	// UC-4 Solving Using Switch Case
 	public int getDailyHours(int attendance) {
 		final int FULL_TIME_HOURS = 8;
-		final int PART_TIME_HOURS = 8;
+		final int PART_TIME_HOURS = 4;
 		int dailyHours = 0;
 		switch (attendance) {
 			case 1 -> {
@@ -141,7 +167,7 @@ class UC5 {
 	}
 }
 
-class UC6{
+class EWC_UC6{
 	// UC-1 Check if Employee is Present Or Absent using Random()
 	public int getAttendance() {
 		return (int) (Math.random() * 3);
@@ -164,7 +190,7 @@ class UC6{
 	// UC-4 Solving Using Switch Case
 	public int getDailyHours(int attendance, int totalWorkingHours) {
 		final int FULL_TIME_HOURS = 8;
-		final int PART_TIME_HOURS = 8;
+		final int PART_TIME_HOURS = 4;
 		final int MAX_WORKING_HOURS = 100;
 		int dailyHours = 0;
 		switch (attendance) {
@@ -216,7 +242,7 @@ public class EmployeeWageComputationProblem {
 
 		final int WAGE_PER_HOUR = 20;
 		final int FULL_TIME_HOURS = 8;
-		final int PART_TIME_HOURS = 8;
+		final int PART_TIME_HOURS = 4;
 		final int MAX_WORKING_DAYS = 20;
 		final int MAX_WORKING_HOURS = 100;
 
