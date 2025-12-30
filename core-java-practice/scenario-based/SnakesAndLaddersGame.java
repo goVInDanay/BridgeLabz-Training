@@ -345,7 +345,9 @@ public class SnakesAndLaddersGame {
 		int playerTwoCurrentPosition = 0;
 		int numberOfDiceThrowsOne = 0;
 		int numberOfDiceThrowsTwo = 0;
-
+		int prevOne = 0;
+		int prevTwo = 0;
+		
 		System.out.println("Player 1 at position " + playerOneCurrentPosition);
 		System.out.println("Player 2 at position " + playerTwoCurrentPosition);
 		boolean turn = true;
@@ -353,14 +355,30 @@ public class SnakesAndLaddersGame {
 		// UC-4 Move player till he reaches 100
 		while (playerOneCurrentPosition < END_POINT && playerTwoCurrentPosition < END_POINT) {
 			if (turn) {
+				prevOne = playerOneCurrentPosition;
 				System.out.println("Player 1's turn");
 				numberOfDiceThrowsOne++;
 				playerOneCurrentPosition = displayTurn("Player 1", playerOneCurrentPosition);
+				if(playerOneCurrentPosition == END_POINT) {
+					break;
+				}
+				if(playerOneCurrentPosition > prevOne) {
+					System.out.println("Since you got a ladder you can roll again");
+					continue;
+				}
 				turn = !turn;
 			} else {
+				prevTwo = playerTwoCurrentPosition;
 				System.out.println("Player 2's turn");
 				numberOfDiceThrowsTwo++;
 				playerTwoCurrentPosition = displayTurn("Player 2", playerTwoCurrentPosition);
+				if(playerTwoCurrentPosition == END_POINT) {
+					break;
+				}
+				if(playerTwoCurrentPosition > prevTwo) {
+					System.out.println("Since you got a ladder you can roll again");
+					continue;
+				}
 				turn = !turn;
 			}
 			System.out.println();
