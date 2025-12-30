@@ -101,3 +101,9 @@ BridgeLabz-Training/
       - Completed 2 Leetcode questions and added in [leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
       - Completed 2 Scenario-based questions and added in [gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
       - Completed 2 Scenario-based question and added in [gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+   - #### 30-12-2025
+      - Completed 2 Leetcode questions and added in [leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+      - Completed 1 Scenario-based question and added in [gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+      - Completed Level 1 Classes And Objects Practice questions and added in [oops-branch -> oops-practice/gcr-codebase/class-and-object](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
+      - Completed Level 2 Classes And Objects Practice questions and added in [oops-branch -> oops-practice/gcr-codebase/class-and-object](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
