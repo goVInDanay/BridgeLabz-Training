@@ -1,4 +1,4 @@
-package oops_practice.gcr_codebase.encapsulation;
+package oops_practice.gcr_codebase.class_and_object;
 
 import java.util.*;
 
@@ -34,6 +34,7 @@ class Employee {
 	public double getSalary() {
 		return salary;
 	}
+
 	public void displayDetails() {
 		System.out.println("Name " + name);
 		System.out.println("ID " + id);

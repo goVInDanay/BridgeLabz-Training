@@ -1,4 +1,4 @@
-package oops_practice.gcr_codebase.encapsulation;
+package oops_practice.gcr_codebase.class_and_object;
 
 class Book {
 	String title;

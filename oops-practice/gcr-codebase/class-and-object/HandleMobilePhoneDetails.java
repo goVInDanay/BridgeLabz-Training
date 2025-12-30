@@ -1,14 +1,17 @@
-package oops_practice.gcr_codebase.encapsulation;
-class MobilePhone{
+package oops_practice.gcr_codebase.class_and_object;
+
+class MobilePhone {
 	String brand;
 	String model;
 	double price;
+
 	public MobilePhone(String brand, String model, double price) {
 		// TODO Auto-generated constructor stub
 		this.brand = brand;
 		this.model = model;
 		this.price = price;
 	}
+
 	public void displayDetails() {
 		System.out.println("Brand of mobile: " + brand);
 		System.out.println("Model of mobile: " + model);
@@ -16,6 +19,7 @@ class MobilePhone{
 		System.out.println("------------------------------");
 	}
 }
+
 public class HandleMobilePhoneDetails {
 	public static void main(String[] args) {
 		MobilePhone mob1 = new MobilePhone("VIVO", "VIVO V29", 15999);
