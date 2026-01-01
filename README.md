@@ -112,3 +112,8 @@ BridgeLabz-Training/
    - #### 31-12-2025
       - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
       - Completed Constructors, Instance Variables and Access Modifiers Practice questions and added in [oops-branch -> oops-practice/gcr-codebase/constructors-and-instance-variables](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-instance-variables)
+   
+   - #### 01-01-2026
+      - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+      - Completed This, Static, Final and InstanceOf Practice questions and added in [oops-branch -> oops-practice/gcr-codebase/this-static-final-and-instanceOf](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final-and-instanceOf)
+      - Completed 2 Scenario-based question and added in [core-java-branch -> core-java-practice/gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
