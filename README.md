@@ -117,3 +117,8 @@ BridgeLabz-Training/
       - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
       - Completed This, Static, Final and InstanceOf Practice questions and added in [oops-branch -> oops-practice/gcr-codebase/this-static-final-and-instanceOf](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final-and-instanceOf)
       - Completed 2 Scenario-based question and added in [core-java-branch -> core-java-practice/gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+   - #### 02-01-2026
+      - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+      - Completed Object Oriented Design Principles Practice questions and added in [oops-branch -> oops-practice/gcr-codebase/object-oriented-design-principles](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)
+      - Completed 2 Scenario-based question and added in [core-java-branch -> core-java-practice/gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
