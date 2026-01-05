@@ -130,3 +130,8 @@ BridgeLabz-Training/
 
    - #### 04-01-2026
       - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+
+   - #### 04-01-2026
+      - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+      - Completed Encapsulation, Polymorphism, Interface and Abstraction Practice Problems and added in [oops-branch -> oops-practice/gcr-codebase/encapsulation-polymorphism-interface-and-abstraction](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface-and-abstraction)
+      - Completed 3 Scenario-based question and added in [core-java-branch -> core-java-practice/gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
