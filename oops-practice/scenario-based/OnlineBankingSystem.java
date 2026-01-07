@@ -34,7 +34,7 @@ class Account {
 		this.accountHolder = accountHolder;
 		this.balance = balance;
 	}
-	
+
 	// Validation
 	private void validateAccountNumber(String accountNumber) {
 		if (accountNumber == null || accountNumber.isEmpty()) {
@@ -48,7 +48,7 @@ class Account {
 			throw new IllegalArgumentException("Account holder name cannot be empty");
 		}
 	}
-	
+
 	// Validation
 	private void validateBalance(double balance) {
 		if (balance < 0) {
@@ -62,6 +62,10 @@ class Account {
 
 	public String getAccountHolder() {
 		return accountHolder;
+	}
+
+	public String getAccountNumber() {
+		return accountNumber;
 	}
 
 	// Deposit + Update
@@ -100,8 +104,8 @@ class SavingsAccount extends Account {
 		super(accountNumber, accountHolder, balance);
 		this.interestRate = interestRate;
 	}
-	
-	//Polymorphism
+
+	// Polymorphism
 	@Override
 	public double calculateInterest() {
 		return getBalance() * interestRate / 100;
@@ -115,7 +119,7 @@ class CurrentAccount extends Account {
 	public CurrentAccount(String accountNumber, String accountHolder, double balance) {
 		super(accountNumber, accountHolder, balance);
 	}
-	
+
 	// Polymorphism
 	@Override
 	public double calculateInterest() {
@@ -146,9 +150,12 @@ class Services implements BankService {
 	// Read + Balance Check
 	@Override
 	public void printBalance(Account account) {
-		System.out.println(account.getAccountHolder() + " Balance: " + account.getBalance());
+		System.out.println("Account Number: " + account.getAccountNumber() + "\nName : " + account.getAccountHolder()
+				+ " : Balance: " + account.getBalance());
+		System.out.println("Interest: " + account.calculateInterest());
+		System.out.println();
 	}
-	
+
 	// Read + Transaction History
 	@Override
 	public void printHistory() {
@@ -168,7 +175,7 @@ public class OnlineBankingSystem {
 
 		Account account1 = new SavingsAccount("135126313", "Govind", 50000, 7.5);
 		Account account2 = new CurrentAccount("352709534", "Hariom", 100000);
-		
+
 		try {
 			service.transfer(account1, account2, 10000);
 			service.transfer(account2, account1, 30000);
