@@ -140,3 +140,7 @@ BridgeLabz-Training/
    - #### 06-01-2026
       - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
       - Completed 4 Scenario-based question and added in [core-java-branch -> core-java-practice/gcr-codebase/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+   
+   - #### 07-01-2026
+      - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+      - Completed 2 Scenario-based question and added in [oops-branch -> oops-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
