@@ -185,30 +185,53 @@ public class RideManagementSystem {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BookRide obj = new BookRide();
-		obj.addDriver(new Driver(1, "Govind"));
-		obj.addDriver(new Driver(2, "Akash"));
-
-		User user = new User(1, "Hariom");
-		FareCalculator normalFare = new NormalPricing(10);
-		FareCalculator peakFare = new PeakPricing(19);
-
-		// Exception Handling
-		try {
-			Ride ride1 = obj.bookRide(user, 20, normalFare);
-			System.out.println("Ride Booked. Fare : " + ride1.getFare());
-			Ride ride2 = obj.bookRide(user, 20, peakFare);
-			System.out.println("Ride Booked. Fare: " + ride2.getFare());
-		} catch (NoDriverAvailableException e) {
-			// TODO: handle exception
-			System.err.println(e);
-		} catch (Exception e) {
-			// TODO: handle exception
-			System.err.println(e);
+		Scanner sc = new Scanner(System.in);
+		
+		int idx = 1;
+		while(true) {
+			System.out.println("Add driver name. Enter exit to exit.");
+			String s = sc.nextLine();
+			s = s.trim();
+			if(s.equalsIgnoreCase("exit")) {
+				break;
+			}
+			obj.addDriver(new Driver(idx++, s));
 		}
-
-		System.out.println();
-		System.out.println("Ride History: ");
-		obj.displayRideHistory();
+		
+		idx = 1;
+		while(true) {
+			System.out.println("Add user name. Enter exit to exit.");
+			String s = sc.nextLine();
+			s = s.trim();
+			if(s.equalsIgnoreCase("exit")) {
+				break;
+			}
+			User user = new User(idx++, s);
+			System.out.println("Normal fare price is Rs 10 per km");
+			System.out.println("Peak fare price is Rs 19 per km");
+			FareCalculator normalFare = new NormalPricing(10);
+			FareCalculator peakFare = new PeakPricing(19);
+			// Exception Handling
+			try {
+				System.out.println("Enter distance");
+				double distance = sc.nextDouble();
+				sc.nextLine();
+				Ride ride1 = obj.bookRide(user, distance, normalFare);
+				System.out.println("Ride Booked. Total Fare at Normal Rate: " + ride1.getFare());
+				Ride ride2 = obj.bookRide(user, distance, peakFare);
+				System.out.println("Ride Booked. Total Fare at Peak Rate: " + ride2.getFare());
+			} catch (NoDriverAvailableException e) {
+				// TODO: handle exception
+				System.err.println(e);
+			} catch (Exception e) {
+				// TODO: handle exception
+				System.err.println(e);
+			}
+	
+			System.out.println();
+			System.out.println("Ride History: ");
+			obj.displayRideHistory();
+		}
 	}
 
 }
