@@ -23,18 +23,22 @@ BridgeLabz-Training/
 ├── oops-practice/                 (Branch & Folder Name)
 │   │
 │   ├── gcr-codebase/
-|   |   ├── encapsulation/
+|   |   ├── class-and-object/
+│   │   ├── constructors-and-instance-variables/
+│   │   ├── encapsulation-polymorphism-interface-and-abstraction/
 │   │   ├── inheritance/
-│   │   ├── polymorphism/
-│   │   └── abstraction/
+│   │   ├── object-oriented-design-principles/
+│   │   └── this-static-final-and-instanceOf/
 │   │
-│   ├── scenario-based/
-│   │
-│   └── leet-code-codebase/
+│   └── scenario-based/
 │
 ├── reviews/                       (Branch Name)
 │
-├── scenario-based/                (Branch Name)
+├── dsa-practice/                (Branch & Folder Name)
+    └── gcr-codebase/
+        └── linked-list/
+
+
 ```
 
 ## 1. Week 1 : Getting started With Java
