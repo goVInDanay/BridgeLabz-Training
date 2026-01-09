@@ -41,9 +41,11 @@ class InventoryList {
 	public void addAtPosition(int pos, int itemId, String itemName, int quantity, double price) {
 		if (pos <= 0) {
 			System.out.println("Invalid Position");
+			return;
 		}
 		if (pos == 1) {
 			addAtStart(itemId, itemName, quantity, price);
+			return;
 		}
 		ItemNode item = new ItemNode(itemId, itemName, quantity, price);
 		ItemNode temp = head;
