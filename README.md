@@ -152,3 +152,7 @@ BridgeLabz-Training/
    - #### 08-01-2026
       - Completed 2 Leetcode questions and added in [core-java-branch -> core-java-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
       - Completed 4 Linked-List Practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/linked-list](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+
+   - #### 09-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed 5 Linked-List Practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/linked-list](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
