@@ -161,6 +161,7 @@ BridgeLabz-Training/
       - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed 2 Scenario-based question and added in [oops-branch -> oops-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+## 4. Week 5 : Starting with DSA
    - #### 12-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed 5 Scenario-based question and added in [oops-branch -> oops-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
@@ -168,3 +169,8 @@ BridgeLabz-Training/
    - #### 13-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed 6 Scenario-based question and added in [oops-branch -> oops-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+   - #### 14-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed Stack and Queue Practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/stack-and-queue](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-and-queue)
+      - - Completed Hash Map and Functions Practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/hash-maps-and-functions](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hash-maps-and-functions)
