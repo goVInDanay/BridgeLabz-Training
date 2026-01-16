@@ -178,3 +178,8 @@ BridgeLabz-Training/
    #### 15-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Sorting Algorithms questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/sorting-algorithms](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+
+   #### 16-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed String Builder and String Buffer practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/string-builder-and-buffer](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/string-builder-and-buffer)
+      - Completed File Reader and Input Stream Reader practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/file-reader-and-stream-reader](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/file-reader-and-stream-reader)
