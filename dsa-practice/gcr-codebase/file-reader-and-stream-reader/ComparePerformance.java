@@ -24,15 +24,17 @@ public class ComparePerformance {
 
 		System.out.println("StringBuffer time: " + (endBufferTime - startBufferTime));
 
-		String path = "fileName.txt";;
+		String path = "fileName.txt";
+		;
 
-		try (FileReader fr = new FileReader(path); BufferedReader br = new BufferedReader(fr)) {
-
+		try {
+			FileReader fr = new FileReader(path); 
+			BufferedReader br = new BufferedReader(fr);
 			long startFR = System.nanoTime();
 			long wordCountFR = 0;
 			String line;
 			while ((line = br.readLine()) != null) {
-				String[] words = line.split("\\s+");
+				String[] words = line.split(" ");
 				wordCountFR += words.length;
 			}
 			long endFR = System.nanoTime();
@@ -53,7 +55,7 @@ public class ComparePerformance {
 			long wordCountISR = 0;
 			String line;
 			while ((line = br.readLine()) != null) {
-				String[] words = line.split("\\s+");
+				String[] words = line.split(" ");
 				wordCountISR += words.length;
 			}
 			long endISR = System.nanoTime();
