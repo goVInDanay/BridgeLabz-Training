@@ -183,3 +183,18 @@ BridgeLabz-Training/
       - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed String Builder and String Buffer practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/string-builder-and-buffer](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/string-builder-and-buffer)
       - Completed File Reader and Input Stream Reader practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/file-reader-and-stream-reader](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/file-reader-and-stream-reader)
+
+   #### 17-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed Linear Search practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/linear-search](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-search)
+      - Completed Binary Search practice questions and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/binary-search](https://github.com/goVInDanay/
+      BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binary-search)
+
+   #### 18-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+## 4. Week 6 : Advancing with DSA
+   #### 19-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed 2 Scenario-Based Problems and added in [dsa-practice-branch -> dsa-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenatio-based)
+      - Completed Algorithm RunTime Complexity and Big-O Notation Practice Problems and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/algorithm-runtime-analysis](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/algorithm-runtime-analysis)
