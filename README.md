@@ -192,3 +192,9 @@ BridgeLabz-Training/
 
    #### 18-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+## 4. Week 6 : Advancing with DSA
+   #### 19-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed 2 Scenario-Based Problems and added in [dsa-practice-branch -> dsa-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenatio-based)
+      - Completed Algorithm RunTime Complexity and Big-O Notation Practice Problems and added in [dsa-practice-branch -> dsa-practice/gcr-codebase/algorithm-runtime-analysis](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/algorithm-runtime-analysis)
