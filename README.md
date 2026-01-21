@@ -203,3 +203,8 @@ BridgeLabz-Training/
       - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed 5 Scenario-Based Problems and added in [dsa-practice-branch -> dsa-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenatio-based)
       - Added 2 Scenario Based Generics Practice Problems and added in [collections-practice-branch -> collections-practice/gcr-codebase/generics](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
+
+   #### 21-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice-branch -> dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed 3 Scenario-Based Problems and added in [dsa-practice-branch -> dsa-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenatio-based)
+      - Added 3 Scenario Based Generics Practice Problems and added in [collections-practice-branch -> collections-practice/gcr-codebase/generics](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
