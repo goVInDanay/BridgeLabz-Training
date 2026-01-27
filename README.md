@@ -175,60 +175,60 @@ BridgeLabz-Training/
       - Completed Stack and Queue Practice questions and added in [dsa-practice/gcr-codebase/stack-and-queue](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-and-queue)
       - - Completed Hash Map and Functions Practice questions and added in [dsa-practice/gcr-codebase/hash-maps-and-functions](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hash-maps-and-functions)
 
-   #### 15-01-2026
+   - #### 15-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Sorting Algorithms questions and added in [dsa-practice/gcr-codebase/sorting-algorithms](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
 
-   #### 16-01-2026
+   - #### 16-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed String Builder and String Buffer practice questions and added in [dsa-practice/gcr-codebase/string-builder-and-buffer](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/string-builder-and-buffer)
       - Completed File Reader and Input Stream Reader practice questions and added in [dsa-practice/gcr-codebase/file-reader-and-stream-reader](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/file-reader-and-stream-reader)
 
-   #### 17-01-2026
+   - #### 17-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Linear Search practice questions and added in [dsa-practice/gcr-codebase/linear-search](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-search)
       - Completed Binary Search practice questions and added in [dsa-practice/gcr-codebase/binary-search](https://github.com/goVInDanay/
       BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binary-search)
 
-   #### 18-01-2026
+   - #### 18-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ## 6. Week 6 : Advancing with DSA
-   #### 19-01-2026
+   - #### 19-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed 2 Scenario-Based Problems and added in [dsa-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenatio-based)
       - Completed Algorithm RunTime Complexity and Big-O Notation Practice Problems and added in [dsa-practice/gcr-codebase/algorithm-runtime-analysis](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/algorithm-runtime-analysis)
 
-   #### 20-01-2026
+   - #### 20-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed 5 Scenario-Based Problems and added in [dsa-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenatio-based)
       - Added 2 Scenario Based Generics Practice Problems and added in [collections-practice/gcr-codebase/generics](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 
-   #### 21-01-2026
+   - #### 21-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed 3 Scenario-Based Problems and added in [dsa-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenatio-based)
       - Added 3 Scenario Based Generics Practice Problems and added in [collections-practice/gcr-codebase/generics](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 
-   #### 22-01-2026
+   - #### 22-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Added Collections Practice Problems and added in [collections-practice/gcr-codebase/](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/)
 
-   #### 23-01-2026
+   - #### 23-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Collections Practice Problems and added in [collections-practice/gcr-codebase/](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/)
 
-   #### 24-01-2026
+   - #### 24-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
-   #### 25-01-2026
+   - #### 25-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ## 7. Week 7 : Advancing with DSA
-   #### 26-01-2026
+   - #### 26-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Streams Practice Problems and added in [collections-practice/gcr-codebase/streams](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
 
-   #### 27-01-2026
+   - #### 27-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Exception Handling Practice Problems and added in [collections-practice/gcr-codebase/streams](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)
       - Completed Lexical Twist Scenario Based Problem and add in [scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
