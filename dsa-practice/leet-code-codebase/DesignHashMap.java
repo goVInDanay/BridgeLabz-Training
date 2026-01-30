@@ -1,0 +1,17 @@
+class MyHashMap {
+    final int SIZE = 1000001;
+    int[] map;
+    public MyHashMap() {
+        map = new int[SIZE];
+        Arrays.fill(map, -1);
+    }
+    public void put(int key, int val) {
+        map[key] = val;
+    }
+    public int get(int key) {
+        return map[key];
+    }
+    public void remove(int key) {
+        map[key] = -1;
+    }
+}
