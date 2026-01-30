@@ -242,4 +242,9 @@ BridgeLabz-Training/
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Future Logistics Scenario Based Problem and add in [oops-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+   - #### 30-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed Regex Based Problems and add in [collections-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+      - Completed J-Unit Based Problems and add in [collections-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit-practice)
+
    
