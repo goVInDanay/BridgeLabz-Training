@@ -260,6 +260,12 @@ BridgeLabz-Training/
       - Completed Annotations Based Problems and added in [collections-practice/gcr-codebase/reflections](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
       - Completed CSV Data Handling Based Problems and added in [io-programming-practice/gcr-codebase/csv-data-handling]
 
+   - #### 02-02-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed Factory Robot Hazard Analyzer Scenario Based Problems and added in [dsa-practice/scenario-based/factory-robot-hazard-analyzer](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/factory-robot-hazard-analyzer)
+      - Completed Stream Buzz Based Problems and added in [collections-practice/scenario-based/stream-buzz](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario_based/stream-buzz)
+      - Completed JSON Data Handling Based Problems and added in [io-programming-practice/gcr-codebase/json-data-handling](https://github.com/goVInDanay/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data-handling/src/main/java/com/bridgelabz/io/json_data_handling)
+
    
 
 
