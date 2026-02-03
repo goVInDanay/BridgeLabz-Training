@@ -223,7 +223,7 @@ BridgeLabz-Training/
    - #### 25-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
-## 7. Week 7 : Advancing with DSA
+## 7. Week 7 : Starting Advance Java Programming
    - #### 26-01-2026
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Streams Practice Problems and added in [collections-practice/gcr-codebase/streams](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
@@ -246,5 +246,21 @@ BridgeLabz-Training/
       - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
       - Completed Regex Based Problems and add in [collections-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
       - Completed J-Unit Based Problems and add in [collections-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit-practice)
+
+   - #### 31-01-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+   - #### 01-02-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+## 7. Week 7 : Advancing with Advance Java Programming
+   - #### 02-02-2026
+      - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+      - Completed Reflections Based Problems and added in [collections-practice/gcr-codebase/reflections](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections)
+      - Completed Annotations Based Problems and added in [collections-practice/gcr-codebase/reflections](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
+      - Completed CSV Data Handling Based Problems and added in [io-programming-practice/gcr-codebase/csv-data-handling]
+
+   
+
 
    
