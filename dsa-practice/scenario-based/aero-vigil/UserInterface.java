@@ -1,0 +1,36 @@
+package dsa_practice.scenario_based.aero_vigil;
+
+import java.util.Scanner;
+
+public class UserInterface {
+
+	public static void main(String[] args) {
+
+		FlightUtil flightUtil = new FlightUtil();
+
+		System.out.println("Enter flight details");
+
+		try (Scanner sc = new Scanner(System.in);) {
+			String input = sc.nextLine();
+			String[] data = input.split(":");
+
+			String flightNumber = data[0];
+			String flightName = data[1];
+			int passengerCount = Integer.parseInt(data[2]);
+			double currentFuelLevel = Double.parseDouble(data[3]);
+
+			flightUtil.validateFlightNumber(flightNumber);
+			flightUtil.validateFlightName(flightName);
+			flightUtil.validatePassengerCount(passengerCount, flightName);
+
+			double fuelRequired = flightUtil.calculateFuelToFillTank(flightName, currentFuelLevel);
+
+			System.out.println("Fuel required to fill the tank: " + fuelRequired + " liters");
+
+		} catch (InvalidFlightException e) {
+			System.out.println(e.getMessage());
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+	}
+}
