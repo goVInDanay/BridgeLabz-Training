@@ -279,3 +279,9 @@ BridgeLabz-Training/
   - Completed Lambda Expression and Method References Practice Problems and added in [java8-features-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expressions-and-method-references)
   - Completed Functional Interfaces Practice Problems and added in [java8-features-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional-interfaces)
   - Completed Stream API and For Each Practice Problems and added in [java8-features-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/stream-api-and-for-each)
+
+- #### 05-02-2026
+  - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+  - Completed Aero Vigil Scenario Based Problems and added in [dsa-practice/scenario-based/aero-vigil](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aero-vigil)
+  - Completed Collectors Practice Problems and added in [java8-features-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors)
+
