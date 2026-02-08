@@ -285,3 +285,12 @@ BridgeLabz-Training/
   - Completed Aero Vigil Scenario Based Problems and added in [dsa-practice/scenario-based/aero-vigil](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/aero-vigil)
   - Completed Collectors Practice Problems and added in [java8-features-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors)
 
+- #### 06-02-2026
+  - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+  - Completed 2 Scenario Based Problems and added in [collections-practice/scenario-based/](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/)
+
+- #### 07-02-2026
+  - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+  - Completed Design Patterns Problems and added in [design-patterns-practice/gcr-codebase/](https://github.com/goVInDanay/BridgeLabz-Training/tree/design-patterns-practice/design-patterns-practice/gcr-codebase/)
+  - Completed Multi Threading Problems and added in [multi-threading-practice/gcr-codebase/](https://github.com/goVInDanay/BridgeLabz-Training/tree/design-patterns-practice/multi-threading-practice/gcr-codebase/)
+  - Completed Ocean Fleet Scenario Based Problem and added in [collections-practice/scenario-based/ocean-fleet](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/ocean-fleet)
