@@ -9,11 +9,9 @@ public class AppointmentDAO {
 
 	public int bookAppointment(Appointment appointment) throws SQLException {
 
-		String checkSql = "SELECT COUNT(*) FROM appointments "
-				+ "WHERE doctor_id = ? AND appointment_date = ? AND appointment_time = ? " + "AND status = 'SCHEDULED'";
+		String checkSql = "SELECT COUNT(*) FROM appointments WHERE doctor_id = ? AND appointment_date = ? AND appointment_time = ? AND status = 'SCHEDULED'";
 
-		String insertSql = "INSERT INTO appointments "
-				+ "(patient_id, doctor_id, appointment_date, appointment_time, status) " + "VALUES (?, ?, ?, ?, ?)";
+		String insertSql = "INSERT INTO appointments (patient_id, doctor_id, appointment_date, appointment_time, status) VALUES (?, ?, ?, ?, ?)";
 
 		try (Connection conn = DBConnection.getConnection()) {
 
