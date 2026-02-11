@@ -303,3 +303,10 @@ BridgeLabz-Training/
   - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
   - Added basic CRUD operations in [dbms-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase)
 
+- #### 10-02-2026
+  - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+- #### 11-02-2026
+  - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+  - Completed Scenario Based JUnit practice problem and added in [collections-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit-practice)
+  - Added Health Clinic Scenario Based problem and added in [dbms-practice/gcr-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase)
