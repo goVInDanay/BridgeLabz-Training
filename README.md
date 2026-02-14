@@ -318,3 +318,7 @@ BridgeLabz-Training/
   - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
   - Completed 4 Scenario Based practice problems and added in [collections-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
 
+- #### 14-02-2026
+  - Completed 2 Leetcode questions and added in [dsa-practice/leet-code-codebase](https://github.com/goVInDanay/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+  - Completed 4 Scenario Based practice problems and added in [collections-practice/scenario-based](https://github.com/goVInDanay/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
