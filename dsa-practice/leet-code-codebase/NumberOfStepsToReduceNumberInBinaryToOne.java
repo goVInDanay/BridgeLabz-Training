@@ -5,7 +5,7 @@ class Solution {
         for(int i = s.length() - 1; i > 0; i--){
             char ch = s.charAt(i);
             if((ch - '0') + carry == 1){
-                count += 2;
+                count = count + 2;
                 carry = 1;
             }
             else{
